@@ -1,0 +1,19 @@
+{
+  "name": "lgmvip-web-task-4",
+  "version": "1.0.0",
+  "description": "Task-4 for lgmvip web developer intern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mridul07Sharma/LGMVIP-WEB-TASK-4.git"
+  },
+  "author": "Mridul Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mridul07Sharma/LGMVIP-WEB-TASK-4/issues"
+  },
+  "homepage": "https://github.com/Mridul07Sharma/LGMVIP-WEB-TASK-4#readme"
+}
